@@ -12,6 +12,8 @@ Full-stack engineer building on Solana, Rust, and the web. I ship on-chain syste
 - [rsocket](https://github.com/shibu0x/rsocket). The WebSocket protocol implemented from raw TCP in Rust. Frame parsing and HTTP upgrade handling, built to understand the wire byte by byte.
 - [order-matching-engine](https://github.com/shibu0x/order-matching-assingment). Matching engine in Rust: Redis-backed order queue, in-memory book with price-time priority, partial fills, real-time fills over WebSocket. Designed to avoid double-matching across API instances.
 - [solx](https://github.com/shibu0x/solana-transaction-analyzer). Compute-unit profiler for Solana mainnet transactions. Groups execution by instruction and flags CU hotspots.
+- [kickoff](https://github.com/shibu0x/kickoff). A telegram bot that turns any group chat into a mini sportsbook for the World Cup.
+- [Nexus](https://github.com/shibu0x/nexus402). An AI-powered DeFi trading agent built on Cronos blockchain, featuring x402 micropayments for premium market data and seamless token swaps.
 
   
 Merged contributions to Solana ecosystem repos: [Solana Foundation Explorer](https://github.com/solana-foundation/explorer/pull/640), [Surfpool](https://github.com/solana-foundation/surfpool/pull/418), and [wallet-ui](https://github.com/wallet-ui/wallet-ui/pull/341).
